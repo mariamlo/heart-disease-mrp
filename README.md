@@ -8,6 +8,7 @@ This project aims to develop a machine learning-based risk assessment model for 
 
 - `eda.ipynb`: Contains the full exploratory data analysis, including data overview, univariate and bivariate analysis, class imbalance diagnostics, and visual insights.
 - `code.ipynb`: Includes data preprocessing, modeling pipelines, class balancing with SMOTE, hyperparameter tuning, threshold optimization, performance evaluation, and model interpretation using SHAP.
+- 'heart_2022_no_nans - Sample.csv' : Small sample of dataset with the same schema as the full dataset.
 
 ### Dataset
 
